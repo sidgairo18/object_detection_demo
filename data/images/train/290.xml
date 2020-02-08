@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>290.jpg</filename>
+	<path>C:\Users\t-sigair\Downloads\UnityEyes_Windows\imgs\290.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>iris</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>416</xmin>
+			<ymin>295</ymin>
+			<xmax>482</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+</annotation>
